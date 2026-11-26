@@ -46,7 +46,7 @@ The goal is to identify the main revenue drivers across **cities**, **product ca
 ## 5. Recommendations
 1. **Bench New York and Los Angeles against Chicago:** review basket composition and merchandising in Chicago to lift average order value (+$12 to +$19 gap) in the other two cities.
 2. **Promote cross-selling on lower-AOV categories:** bundle or highlight **Stationery** ($104.73) and **Household** ($109.17) items alongside high-performing categories like **Personal Care** or **Fruits**.
-3. **Boost `Member` conversions:** Members spend **$8.11 more** per transaction on average and earn reward points — offering a targeted sign-up perk on larger *Normal* purchases can help convert one-off shoppers.
+3. **Boost `Member` conversions:** Members spend **$8.11 more** per transaction on average and earn reward points, offering a targeted sign-up perk on larger *Normal* purchases can help convert one-off shoppers.
 
 ---
 
